@@ -29,9 +29,15 @@ DBBrowser is a visalization tool to create ,design ,edit and manage SQLite .
 what I had learnt is :
 
 Learnt the basics to the advanced concepts of sql
+
 Used DBBrowser to create,design and edit 100+’s different database files that are compatible with SQLite
+
 Learned different types of RBMS systems include SQLite and ……
+
 Analysed and Gave the insights of the customers for the WSDA Companie’s Database
+
 Learnt how to convert natural language question to the equivalent SQL statement or SQL Query .
+
 Learn how to get Familiar with new databases by looking at the structure,how many tables ,types of tables ,types of content that’s housed within each .
+
 Learn how to compose queries as per the client requirement
