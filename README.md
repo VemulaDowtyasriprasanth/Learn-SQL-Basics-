@@ -41,3 +41,21 @@ Learnt how to convert natural language question to the equivalent SQL statement 
 Learn how to get Familiar with new databases by looking at the structure,how many tables ,types of tables ,types of content that’s housed within each .
 
 Learn how to compose queries as per the client requirement
+
+what are comments ?
+
+Comments are plain or natural language way of describing the query that we wrote .
+
+How to write a comment ?
+
+There were two types of comments .
+Single Line Comments
+--This is a comment(two dashes followed by the content in the line is a comment in SQL )
+
+Block level Comments
+
+/\*
+
+This a content in the comments or block of comment
+
+\*/
