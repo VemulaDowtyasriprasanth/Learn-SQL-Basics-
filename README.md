@@ -59,3 +59,21 @@ Block level Comments
 This a content in the comments or block of comment
 
 \*/
+
+/\*
+CREATED BY : VEMULA DOWTYA SRI PRASANTH
+CREATED DATE: 06/19/2023
+DESCRIPTION: This is the structure of a Basic Query (usally we write what this query is doing in here )
+\*/
+
+Aliasing allows us to rename columns as per pur requirement or business needs or client requirement .
+
+Here in our WSDA Database , there were 11 Tables among them in the Customer Table there is a
+FirstName AS [Customer First Name ]
+
+or
+FirstName AS "Customer First Name ",
+
+or IF it's only one word
+
+FirstName AS FIRSTNAME
